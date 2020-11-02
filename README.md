@@ -18,7 +18,9 @@ Now open the git bash inside the cloned project and type the following to see al
 ```bash 
 git log
 ```
+
 You should see something like this:
+```bash
 	1. commit adac9a194f99845f0f0f7e40ce064be9bcc712ed
 	2. Finishing UP the App with Google OAuth 2.0 Authentication. 
 	3. commit 524b749e5fffc1cade6cc1e7d8f8a0bdccf30897
@@ -27,7 +29,7 @@ You should see something like this:
 	6. Level 2 security --> (Bcrypt hashing)
 	7. commit 4b7c2f809e969af0cb5a7060fcb409673063d354
 	8. Level 1 Security
-
+```
 If you would like to see the code for  Level 1 security Only. for example, you can simply type:
 
 ```bash 
